@@ -16,7 +16,7 @@
         <samp>
                 「 I'm a data scientist from <b>Pakistan</b> 」
                 <br>
-                「 Leveraging advanced analytics and machine learning to build data-driven solutions that enhance transform user experiences</b> 」
+                「 Leveraging analytics and machine learning to build data-driven solutions</b> 」
                 <br>
                 <br>
         </samp>
