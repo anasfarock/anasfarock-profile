@@ -2,8 +2,7 @@
 <!-- April 15, 2021 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/anasfarock?v=3)
+
 
 <!-- Title -->
 <h3 align="center">
