@@ -1,14 +1,14 @@
-<!-- https://github.com/ShahriarShafin/ -->
+<!-- https://github.com/anasfarock/ -->
 <!-- April 15, 2021 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+![Profile views](https://gpvc.arturio.dev/anasfarock?v=3)
 
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://anasfarooq.com/">Anas Farooq</a></b>
         </samp>
 </h3>
 <br>
@@ -16,7 +16,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Bangladesh</b> 」
+                「 I'm a software developer from <b>Pakistan</b> 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
