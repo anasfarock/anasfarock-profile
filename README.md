@@ -22,7 +22,6 @@
                 <br>
         </samp>
         <!-- Technologies -->
-        <div style="display: flex; justify-content: center; gap: 10px; align: center">
         <!-- Python -->
         <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
             <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100" height="30">
@@ -39,7 +38,6 @@
         <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
             <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-37bcf8?style=for-the-badge&logo=tailwindcss&logoColor=white" width="100" height="30">
         </a>
-        </div>
 </p>
 
 <!-- Details Section -->
