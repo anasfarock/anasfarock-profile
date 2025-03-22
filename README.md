@@ -1,5 +1,4 @@
 <!-- https://github.com/anasfarock/ -->
-<!-- April 15, 2021 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 
