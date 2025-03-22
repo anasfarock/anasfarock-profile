@@ -22,22 +22,24 @@
                 <br>
         </samp>
         <!-- Technologies -->
+        <div style="display: flex; justify-content: center; gap: 10px;">
         <!-- Python -->
-        <a href="https://github.com/anasfarock?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
+            <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100" height="30">
         </a>
         <!-- React -->
-        <a href="https://github.com/anasfarock?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
+            <img alt="React" src="https://img.shields.io/badge/React-02cdf1?style=for-the-badge&logo=react&logoColor=white" width="100" height="30">
         </a>
         <!-- NextJS -->
-        <a href="https://github.com/anasfarock?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
+            <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" width="100" height="30">
         </a>
         <!-- TailwindCSS -->
-        <a href="https://github.com/anasfarock?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
+            <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-37bcf8?style=for-the-badge&logo=tailwindcss&logoColor=white" width="100" height="30">
         </a>
+        </div>
 </p>
 
 <!-- Details Section -->
