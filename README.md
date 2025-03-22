@@ -82,8 +82,8 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=anasfarock&repo=anasfarock&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/anasfarock/portfolio-website">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=anasfarock&repo=portfolio-website&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/anasfarock/portfolio">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=anasfarock&repo=portfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
 <p align="center">
